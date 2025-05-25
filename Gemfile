@@ -19,7 +19,6 @@ gem "jbuilder"
 
 gem 'pg', '~> 1.5', '>= 1.5.9'
 gem 'devise'
-gem "tailwindcss-ruby", "3.4.13"
 gem "tailwindcss-rails"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
