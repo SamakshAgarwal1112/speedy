@@ -18,7 +18,6 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 gem 'pg', '~> 1.5', '>= 1.5.9'
-gem 'devise'
 gem "tailwindcss-rails"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
